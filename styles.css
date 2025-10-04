@@ -35,9 +35,11 @@ ul {
 li {
     margin: 14px 0;
     padding-left: 10px;
+    border-left:  5px solid transparent;
 }
 
 .extra-important {
     color: rgb(255, 237, 177);
     border-color: rgb(247, 209, 85);
+    /* border-left: 5px solid rgb(247, 209, 85); */
 }

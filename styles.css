@@ -31,3 +31,13 @@ ul {
     padding: 0;
     list-style: none;
 }
+
+li {
+    margin: 14px 0;
+    padding-left: 10px;
+}
+
+.extra-important {
+    color: rgb(255, 237, 177);
+    border-color: rgb(247, 209, 85);
+}
